@@ -92,5 +92,5 @@ h4{
 li:hover{
   opacity: 0.5;
   cursor: pointer;
-  border-style: inset;
+  border-style: dotted;
 }
